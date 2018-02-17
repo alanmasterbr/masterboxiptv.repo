@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="Mafarricos">
-	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/repo/</datadir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="masterboxiptv.repo" name="Master Box IPTV repository" version="1.0.0" provider-name="Master Box">
+	<extension point="xbmc.addon.repository" name="Master Box Add-on Repository">
+		<info compressed="false">https://raw.githubusercontent.com/alanmasterbr/masterboxiptv.repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/alanmasterbr/masterboxiptv.repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/alanmasterbr/masterboxiptv.repo/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
+		<summary>Master Box IPTV Addon</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
